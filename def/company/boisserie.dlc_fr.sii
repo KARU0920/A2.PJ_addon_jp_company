@@ -1,0 +1,6 @@
+company_permanent: company.permanent.boisserie
+{
+	name: "Calvi Bois"
+	sort_name: "calvi bois"
+	trailer_look: boisserie
+}

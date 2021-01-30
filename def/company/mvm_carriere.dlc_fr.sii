@@ -1,0 +1,6 @@
+company_permanent: company.permanent.mvm_carriere
+{
+	name: "Charier"
+	sort_name: "charier"
+	trailer_look: mvm_carriere
+}

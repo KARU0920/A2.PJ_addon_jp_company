@@ -1,0 +1,6 @@
+company_permanent: company.permanent.gomme_monde
+{
+	name: "Michelin"
+	sort_name: "michelin"
+	trailer_look: gomme_monde
+}

@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.a.rfx" {
+	texture[0] : "/model/ui/garage/garage_props.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/showroom_cube/reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0.04 , 0.99 }
+	reflection : 0
+	shininess : 70
+	specular : { 0.778022 , 0.778022 , 0.778022 }
+	queue_bias : 1
+}

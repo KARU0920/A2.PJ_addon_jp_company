@@ -1,0 +1,6 @@
+company_permanent: company.permanent.cont_port_fr
+{
+	name: "CMA CGM LOG"
+	sort_name: "cma cgm log"
+	trailer_look: cont_port_fr
+}

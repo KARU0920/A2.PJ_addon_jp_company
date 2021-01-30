@@ -1,0 +1,30 @@
+trailer : trailer.lukic
+{
+	accessories[]: .lukic.tchassis
+	accessories[]: .lukic.trwheel0
+	accessories[]: .lukic.trwheel1
+	accessories[]: .lukic.trwheel2
+}
+
+vehicle_accessory: .lukic.tchassis
+{
+		data_path: "/def/vehicle/trailer/lukic/chassis.sii"
+}
+
+vehicle_wheel_accessory: .lukic.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .lukic.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .lukic.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

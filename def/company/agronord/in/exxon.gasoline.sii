@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : exxon.gasoline {
+ cargo: "cargo.exxon.gasoline"
+}
+}

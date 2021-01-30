@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env" {
+	texture[0] : "/vehicle/trailer_eu/marathon/textures/wheel.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1.0 , 1.0 , 1.0 }
+	env_factor : { 0.318547 , 0.318547 , 0.318547 }
+	reflection : 0
+	shininess : 100
+	specular : { 0.789036 , 0.789036 , 0.789036 }
+}

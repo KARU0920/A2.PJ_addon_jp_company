@@ -1,0 +1,100 @@
+accessory_hookup_data : zeroslgt1.addon_hookup
+{
+	name: "Light Chrome 1"
+	price: 90
+	icon: "smalllight_01"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_01.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+	unlock: 4
+}
+accessory_hookup_data : zeroslgt2.addon_hookup
+{
+	name: "Light Chrome 2"
+	price: 120
+	icon: "smalllight_02"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_02.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+	unlock: 6
+}
+accessory_hookup_data : zeroslgt3.addon_hookup
+{
+	name: "Light Chrome 3"
+	price: 110
+	icon: "smalllight_03"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_03.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+ 	unlock: 8
+}
+accessory_hookup_data : zeroslgt4.addon_hookup
+{
+	name: "Light Chrome 4"
+	price: 90
+	icon: "smalllight_04"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_04.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+	unlock: 10
+}
+accessory_hookup_data : zeroslgt5.addon_hookup
+{
+	name: "Light Chrome 5"
+	price: 90
+	icon: "smalllight_05"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_05.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+	unlock: 12
+}
+accessory_hookup_data : zeroslgt6.addon_hookup
+{
+	name: "Light Chrome 6"
+	price: 110
+	icon: "smalllight_06"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_06.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+	unlock: 14
+}
+accessory_hookup_data : zeroslgt7.addon_hookup
+{
+	name: "Small Side Marker (R)"
+	price: 110
+	icon: "smalllight_08"
+	model: "/vehicle/truck/upgrade/smalllight/marker_2.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+	unlock: 4
+}
+accessory_hookup_data : zeroslgt8.addon_hookup
+{
+	name: "Small Side Marker (L)"
+	price: 110
+	icon: "smalllight_07"
+	model: "/vehicle/truck/upgrade/smalllight/marker_1.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+	unlock: 4
+}
+accessory_hookup_data : zeroslgt9.addon_hookup
+{
+	name: "Large Side Marker (R)"
+	price: 120
+	icon: "smalllight_10"
+	model: "/vehicle/truck/upgrade/smalllight/marker_l_2.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+	unlock: 8
+}
+accessory_hookup_data : zeroslgt10.addon_hookup
+{
+	name: "Large Side Marker (L)"
+	price: 120
+	icon: "smalllight_09"
+	model: "/vehicle/truck/upgrade/smalllight/marker_l_1.pmd"
+	suitable_for[]: "aero"
+	electric_type: vehicle
+	unlock: 8
+}

@@ -1,0 +1,522 @@
+[white] Project
+[red] Japan
+[white] JP COMPANY
+
+------- UPDATES IN 0.2 ----------
+【Japanese】
+- ご利用いただきありがとうございます。
+- このmodについて…
+ほぼ全てにおいて実在の会社を設定しております。
+箱車のみのスキン割り当てなのでtankerやbulkなどはズレます。
+ボディメーカーや積載量ステッカーは割愛してあります。
+左右のスキンが実在とは違う場合があります。
+実在の会社の看板を背負ってるという思いをもって、無事故無違反で迷惑の掛からない様に運行御願い致します。
+くれぐれも会社のイメージダウンになるような煽り運転などは無いように御願い致します。
+
+- PJ用会社名
+・全国農業協同組合連合会
+・北四国運輸倉庫株式会社
+・エア・ウォーター株式会社
+・スズキ株式会社
+・株式会社エスラインギフ
+・愛知陸運株式会社
+・因島マリーナ
+・グローバル アルミニウム メジャーグループ 株式会社UACJ
+・日本製鉄株式会社
+・飛騨高山森林組合
+・Hitz 日立造船株式会社
+・株式会社佃製作所
+・株式会社上組
+・藤原運輸株式会社
+・澁澤倉庫株式会社
+・大和ハウス工業株式会社
+・テーブルマーク株式会社
+・株式会社商船三井
+・株式会社畑中食品
+・四国開発フェリー株式会社
+・雪印乳業株式会社
+・佐川急便株式会社
+・株式会社丸和運輸機関
+・マツダ株式会社
+・株式会社 JALカーゴサービス
+・株式会社フェリーさんふらわあ
+・王子運送株式会社
+・株式会社ブリヂストン
+・新日本石油株式会社
+・IKEA
+・日本製鉄株式会社
+・近物レックス株式会社
+・カンリクグループ・関西陸運株式会社
+・ダイセーホールディングス株式会社
+・ヤマト運輸株式会社
+・株式会社丸運
+・株式会社大阪屋ショップ
+・積水化学工業株式会社
+・マイナミホールディングス株式会社
+・マルハニチロ株式会社
+・マリネックス株式会社
+・株式会社近鉄エクスプレス
+・株式会社カネカ
+・宇部興産株式会社
+・菱中海陸運輸株式会社
+・東京日商陸運株式会社
+・日本郵政株式会社
+・大友運送株式会社
+・キャリムエンジニアリング株式会社
+・トヨタ自動車株式会社
+・丸投製麺株式会社
+・日本通運株式会社
+・イオン株式会社
+・日清食品株式会社
+・日本郵船株式会社
+・澁谷工業株式会社
+・株式会社日立物流
+・名鉄運輸株式会社
+・住友林業株式会社
+・CEF南あわじウインドファーム
+・出光興産株式会社
+・西濃運輸株式会社
+
+- PJトレーラー
+・まなみんトランスポート株式会社
+・株式会社サンキュウ・トランスポート
+・丸全昭和運輸株式会社
+・琴音丸観光
+・航空集配サービス株式会社
+・富士運輸株式会社
+・株式会社ヒューテックノオリン
+・株式会社カネコ運輸
+・株式会社ロジネットジャパン
+・キャリーネット株式会社
+・株式会社マルニックス
+・塩谷運輸建設株式会社
+・柳川運輸株式会社
+・日本梱包運輸倉庫株式会社
+・北四国運輸倉庫株式会社
+・やま司運輸有限会社
+・エア・ウォーター株式会社
+・ダイセル物流株式会社
+・三井石油開発株式会社
+・スズキ株式会社
+・株式会社江川商運
+・株式会社エスラインギフ
+・愛知陸運株式会社
+・太田運輸株式会社
+・JAえひめ物流株式会社
+・株式会社UACJ物流
+・日鉄物流株式会社
+・飛騨運輸株式会社
+・株式会社吉秀トラフィック
+・株式会社 オーナミ
+・トナミ運輸株式会社
+・株式会社エスワイプロモーション
+・株式会社バンテック
+・アートバンライン株式会社
+・株式会社シーエックスカーゴ
+・株式会社ニヤクコーポレーション
+・帝国重工
+・株式会社ロードリーム
+・ビューテック株式会社
+・コスモ石油株式会社
+・株式会社 宝樹
+・有限会社 好川商運
+・関西ジェットライン株式会社
+・カトーレック株式会社
+・株式会社アイエヌライン
+・株式会社商船三井
+・UDトラックス株式会社
+・株式会社ENEOSウイング
+・有限会社関西友愛ライン
+・株式会社 畑中食品
+・長山産業株式会社
+・明雪グループ ・明雪運輸株式会社
+・誠運輸株式会社
+・山陽自動車運送株式会社
+・株式会社丸和運輸機関
+・株式会社メロス
+・ホイテクノ物流株式会社
+・関西トランスウェイ株式会社
+・大山乳業協同組合
+・マツダ株式会社
+・横浜ゴム株式会社
+・大津急送株式会社
+・平野ロジスティクス株式会社
+・株式会社ミラージュ
+・王子運送株式会社
+・ラニイ福井貨物株式会社
+・株式会社ブリヂストン
+・エクソンモービル
+・株式会社エクシング
+・SGムービング株式会社
+・丸協運輸株式会社
+・株式会社 トミナガ
+・関西名鉄運輸株式会社
+・株式会社ジャパンエナジー
+・近物レックス株式会
+・太平洋フェリー株式会社
+・株式会社 ロンコ・ジャパン
+・ザ コカ・コーラ カンパニー
+・カンリクグループ・関西陸運株式会社 
+・レクサス
+・日産自動車株式会社
+・天理総合運輸株式会社
+・株式会社ランドキャリー
+・大黒運輸株式会社
+・ダイセーホールディングス株式会社
+・大石運輸倉庫株式会
+・牧迫運輸株式会
+・中央運輸株式会社
+・防長運輸産業株式会社
+・株式会社丸正フーズ
+・株式会社日乃出輸送
+・滋賀運送株式会社
+・大虎運輸 株式会社
+・内田運輸株式会社
+・大川陸運 株式会社
+・株式会社津田商店
+・株式会社近興
+・株式会社畑中食品
+・新居建設運輸株式会社
+・株式会社丸運
+・大西物流 株式会社
+・株式会社朝日通商
+・鴻池運輸株式会社
+・株式会社ムロオ
+・株式会社毎日急行
+・藤原運輸株式会社
+・マルイ運輸株式会社
+・センコー株式会社
+・福岡給油施設株式会社
+・西部運輸株式会社
+・ENEOS
+・太伸興業株式会社
+・阪神ロジテム株式会社
+・株式会社ジェネシス
+・押田運送有限会社
+・友愛商事 株式会社
+・神山運輸株式会社
+・マリネックス株式会社
+・株式会社近鉄エクスプレス
+・吉川運輸株式会社
+・株式会社合通
+・三豊運送株式会社
+・株式会社総合荷役物流
+・日商陸運株式会社
+・トールエクスプレスジャパン株式会社
+・服部商事株式会社
+・三菱ふそうトラック・バス株式会社
+・輪島屋鮮冷株式会社
+・株式会社リクサス
+・岡山県貨物運送株式会社
+・株式会社 篠原陸運
+・日本トランスシティ株式会社
+・株式会社大成運輸
+・大友運送株式会社
+・株式会社美咲ライン
+・キャリムエンジニアリング株式会社
+・スカニア
+・TOYOTA GAZOO Racing
+・誠徳運輸株式会社
+・丸投製麺株式会社
+・有限会社初谷運送店
+・昭和シェル石油株式会社
+・株式会社オートフレンド
+・三菱ケミカル物流株式会社
+・ダイワ運輸株式会社
+・日本通運株式会社
+・揖斐川工業株式会社
+・株式会社シャトレーゼ
+・三紀運輸株式会社
+・株式会社橋本商事冷凍輸送
+・カリツー株式会社
+・出光興産株式会社
+・幸德運輸有限会社
+・中越運送株式会社
+・藤俊運輸株式会社
+・郵船ロジスティクス株式会社
+・丸善石油化学株式会社
+・嶋本運輸株式会社
+・北陸急配株式会社
+・株式会社日立物流
+・名鉄運輸株式会社
+・三菱石油株式会社
+・株式会社 BHX-K
+・松岡満運輸株式会社
+・第一貨物株式会社
+・若松梱包運輸倉庫株式会社
+・株式会社鷺富運送
+・淡路共正陸運株式会社
+・いすゞ自動車株式会社
+・鈴与カーゴネット株式会社
+・日野自動車株式会社
+・神戸高速運輸株式会社
+・西濃運輸株式会社
+・みなと運送 株式会社
+・株式会社相馬輸送
+
+
+
+【ENGLISH】
+-　Thank you for using our service.
+- About this mod...
+Almost all of them are set up with real companies.
+This is the skin assignment for boxcars only, so tanker, bulk, etc. are out of alignment.
+I have omitted the body manufacturer and load sticker.
+The left and right skins may be different from the real thing.
+With the idea of carrying the signboard of an actual company on your back, please drive with no accidents, no violations, and no inconvenience.
+Please refrain from driving while agitated in order to damage the company's image.
+
+-Company name for PJ
+・ National Federation of Agricultural Cooperatives
+・ Kita Shikoku Transport Warehouse Co., Ltd.
+・ Air Water Co., Ltd.
+・ Suzuki Co., Ltd.
+・ S-Line Gift Co., Ltd.
+・ Aichi Land Transport Co., Ltd.
+・ Innoshima Marina
+・ Global Aluminum Major Group UACJ Co., Ltd.
+・ Nippon Steel Corporation
+・ Hida Takayama Forest Association
+・ Hitz Hitachi Zosen Corporation
+・ Tsukuda Manufacturing Co., Ltd.
+・ Kamigumi Co., Ltd.
+・ Fujiwara Transport Co., Ltd.
+・ Shibusawa Warehouse Co., Ltd.
+・ Daiwa House Industry Co., Ltd.
+・ Tablemark Co., Ltd.
+・ MOL Co., Ltd.
+・ Hatanaka Foods Co., Ltd.
+・ Shikoku Development Ferry Co., Ltd.
+・ Snow Brand Milk Products Co., Ltd.
+・ Sagawa Express Co., Ltd.
+・ Maruwa Transport Co., Ltd.
+·Mazda Corporation Inc
+・ JAL Cargo Service Co., Ltd.
+・ Ferry Co., Ltd.
+・ Oji Transport Co., Ltd.
+・ Bridgestone Co., Ltd.
+・ Nippon Oil Co., Ltd.
+・ IKEA
+・ Nippon Steel Corporation
+・ Chikyu Rex Co., Ltd.
+・ Kanriku Group, Kansai Land Transport Co., Ltd.
+・ Daisei Holdings Co., Ltd.
+・ Yamato Transport Co., Ltd.
+・ Maruun Co., Ltd.
+・ Osakaya Shop Co., Ltd.
+・ Sekisui Chemical Co., Ltd.
+・ Minami Holdings Co., Ltd.
+・ Maruhanichiro Co., Ltd.
+・ Marinex Co., Ltd.
+・ Kintetsu Express Co., Ltd.
+・ Kaneka Corporation
+・ Ube Industries, Ltd.
+・ Hishinaka Land Transport Co., Ltd.
+・ Tokyo Nissho Land Transport Co., Ltd.
+・ Japan Post Co., Ltd.
+・ Otomo Transport Co., Ltd.
+・ Carim Engineering Co., Ltd.
+·Toyota Motor Corporation
+・ Maruto Seimen Co., Ltd.
+・ Nippon Express Co., Ltd.
+・ AEON Co., Ltd.
+・ Nissin Foods Co., Ltd.
+・ Nippon Yusen Co., Ltd.
+・ Shibuya Industry Co., Ltd.
+・ Hitachi Logistics Co., Ltd.
+・ Meitetsu Transport Co., Ltd.
+・ Sumitomo Forestry Co., Ltd.
+・ CEF Minami Awaji Wind Farm
+・ Idemitsu Kosan Co., Ltd.
+・ Seino Transportation Co., Ltd.
+
+-PJ Trailer
+・ Manamin Transport Co., Ltd.
+・ Sankyu Transport Co., Ltd.
+・ Maruzen Showa Transportation Co., Ltd.
+・ Kotone Maru sightseeing
+・ Air Collection Service Co., Ltd.
+・ Fuji Transport Co., Ltd.
+・ Hutech Noorin Co., Ltd.
+・ Kaneko Transport Co., Ltd.
+・ Loginnet Japan Co., Ltd.
+・ Carry Net Inc.
+・ Marunix Co., Ltd.
+・ Shioya Transport Construction Co., Ltd.
+・ Yanagawa Transport Co., Ltd.
+・ Nippon Packing Transport Warehouse Co., Ltd.
+・ Kita Shikoku Transport Warehouse Co., Ltd.
+・ Yamaji Transport Co., Ltd.
+・ Air Water Co., Ltd.
+・ Daicel Logistics Co., Ltd.
+・ Mitsui Oil Exploration Co., Ltd.
+・ Suzuki Co., Ltd.
+・ Egawa Shoun Co., Ltd.
+・ S-Line Gift Co., Ltd.
+・ Aichi Land Transport Co., Ltd.
+・ Ota Transportation Co., Ltd.
+・ JA Ehime Logistics Co., Ltd.
+・ UACJ Logistics Co., Ltd.
+・ Nittetsu Logistics Co., Ltd.
+・ Hida Transport Co., Ltd.
+・ Yoshihide Traffic Co., Ltd.
+・ Onami Co., Ltd.
+・ Tonami Transport Co., Ltd.
+・ SY Promotion Co., Ltd.
+・ Vantech Co., Ltd.
+・ Art Van Line Co., Ltd.
+・ C-X Cargo Co., Ltd.
+・ Niyaku Corporation
+・ Imperial Heavy Industry
+・ Road Dream Co., Ltd.
+・ Viewtech Co., Ltd.
+・ Cosmo Oil Co., Ltd.
+・ Taiki Co., Ltd.
+・ Kohkawa Shounen Co., Ltd.
+・ Kansai Jet Line Co., Ltd.
+・ Katolek
+・ IN Line Co., Ltd.
+・ MOL Co., Ltd.
+・ UD Trucks Co., Ltd.
+・ ENEOS Wing Co., Ltd.
+・ Kansai Yuai Line Co., Ltd.
+・ Hatanaka Foods Co., Ltd.
+・ Nagayama Sangyo Co., Ltd.
+・ Meiseki Group ・ Meiseki Transport Co., Ltd.
+・ Makoto Transport Co., Ltd.
+・ Sanyo Motor Transport Co., Ltd.
+・ Maruwa Transport Co., Ltd.
+・ Meros Co., Ltd.
+・ Hui Techno Logistics Co., Ltd.
+・ Kansai Transway Co., Ltd.
+・ Oyama Dairy Cooperative
+·Mazda Corporation Inc
+・ Yokohama Rubber Co., Ltd.
+・ Otsu Express Co., Ltd.
+・ Hirano Logistics Co., Ltd.
+・ Mirage Co., Ltd.
+・ Oji Transport Co., Ltd.
+・ Ranii Fukui Freight Co., Ltd.
+・ Bridgestone Co., Ltd.
+・ Exxon Mobil
+・ XING Co., Ltd.
+・ SG Moving Co., Ltd.
+・ Marukyo Transport Co., Ltd.
+・ Tominaga Co., Ltd.
+・ Kansai Meitetsu Transport Co., Ltd.
+・ Japan Energy Co., Ltd.
+・ Chikyu Rex Stock Association
+・ Taiheiyo Ferry Co., Ltd.
+・ Ronco Japan Co., Ltd.
+・ The Coca-Cola Company
+・ Kanriku Group, Kansai Land Transport Co., Ltd.
+・ Lexus
+·Nissan Motor Co., Ltd
+・ Tenri Sogo Transport Co., Ltd.
+・ Land Carry Co., Ltd.
+・ Daikoku Transportation Co., Ltd.
+・ Daisei Holdings Co., Ltd.
+・ Oishi Transport Warehouse Stock Association
+・ Makisako Transport Co., Ltd.
+・ Chuo Transportation Co., Ltd.
+・ Chocho Transport Industry Co., Ltd.
+・ Marusho Foods Co., Ltd.
+・ Hinode Transport Co., Ltd.
+・ Shiga Transport Co., Ltd.
+・ Otora Transport Co., Ltd.
+・ Uchida Transport Co., Ltd.
+・ Okawa Land Transport Co., Ltd.
+・ Tsuda Shoten Co., Ltd.
+・ Konko Co., Ltd.
+・ Hatanaka Foods Co., Ltd.
+・ Arai Construction Transport Co., Ltd.
+・ Maruun Co., Ltd.
+・ Onishi Logistics Co., Ltd.
+・ Asahi Trading Co., Ltd.
+・ Konoike Transport Co., Ltd.
+・ Muroo Co., Ltd.
+・ Mainichi Express Co., Ltd.
+・ Fujiwara Transport Co., Ltd.
+・ Marui Transport Co., Ltd.
+・ Senko Co., Ltd.
+・ Fukuoka Refueling Facility Co., Ltd.
+・ West Transportation Co., Ltd.
+・ ENEOS
+・ Tashin Kogyo Co., Ltd.
+・ Hanshin Logitem Co., Ltd.
+・ Genesis Co., Ltd.
+・ Oshida Transport Co., Ltd.
+・ Yuai Shoji Co., Ltd.
+・ Kamiyama Transport Co., Ltd.
+・ Marinex Co., Ltd.
+・ Kintetsu Express Co., Ltd.
+・ Yoshikawa Transport Co., Ltd.
+・ Gotsu Co., Ltd.
+・ Mitoyo Transportation Co., Ltd.
+・ General cargo handling logistics
+・ Nissho Land Transport Co., Ltd.
+・ Tall Express Japan Co., Ltd.
+・ Hattori Shoji Co., Ltd.
+・ Mitsubishi Fuso Truck and Bus Corporation
+・ Wajimaya Seiryo Co., Ltd.
+・ Rixus Corporation
+・ Okayama Freight Forwarding Co., Ltd.
+・ Shinohara Rikuun Co., Ltd.
+・ Nippon Transcity Co., Ltd.
+・ Taisei Transport Co., Ltd.
+・ Otomo Transport Co., Ltd.
+・ Misaki Line Co., Ltd.
+・ Carim Engineering Co., Ltd.
+・ Scania
+・ TOYOTA GAZOO Racing
+・ Seitoku Transport Co., Ltd.
+・ Maruto Seimen Co., Ltd.
+・ Hatsuya Transport Company Limited
+・ Showa Shell Sekiyu Co., Ltd.
+・ Auto Friend Co., Ltd.
+・ Mitsubishi Chemical Logistics Co., Ltd.
+・ Daiwa Transport Co., Ltd.
+・ Nippon Express Co., Ltd.
+・ Ibigawa Industry Co., Ltd.
+・ Chateraise Co., Ltd.
+・ Sanki Transport Co., Ltd.
+・ Hashimoto Shoji Co., Ltd.
+・ Carite Co., Ltd.
+・ Idemitsu Kosan Co., Ltd.
+・ Kodetsu Transport Co., Ltd.
+・ Chuetsu Transport Co., Ltd.
+・ Fujitoshin Transport Co., Ltd.
+・ Yusen Logistics Co., Ltd.
+・ Maruzen Petrochemical Co., Ltd.
+・ Shimamoto Transport Co., Ltd.
+・ Hokuriku Express Co., Ltd.
+・ Hitachi Logistics Co., Ltd.
+・ Meitetsu Transport Co., Ltd.
+・ Mitsubishi Oil Corporation
+・ BHX-K Co., Ltd.
+・ Matsuoka Man Transport Co., Ltd.
+・ Daiichi Freight Co., Ltd.
+・ Wakamatsu Packing Transport Warehouse Co., Ltd.
+・ Sagitomi Transport Co., Ltd.
+・ Awaji Kyosho Land Co., Ltd.
+・ Isuzu Motors Limited
+・ Suzuyo Cargo Net Co., Ltd.
+・ Hino Motors Ltd.
+・ Kobe High Speed ​​Transport Co., Ltd.
+・ Seino Transportation Co., Ltd.
+・ Minato Transport Co., Ltd.
+・ Soma Transport Co., Ltd.
+
+------・UPDATES IN 0.10 ----------
+【Japanese】
+- Project JAPANで荷受け会社を日本風にしてみたMODです。
+未だ製作途中です。
+ついでにヤマト運輸のプロフィア10ｔをトラフィックに追加しました。
+ヤマト運輸エルフを追加しました。
+
+【ENGLISH】
+- This is a MOD that I tried to make the receiving company in Project JAPAN in a Japanese style.
+It is still in the process of being made.
+As a side note, 
+I added Yamato Transport's Profia 10T to the traffic.
+Yamato Transport Elf has been added.

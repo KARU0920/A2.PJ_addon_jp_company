@@ -1,0 +1,6 @@
+company_permanent: company.permanent.globeur
+{
+	name: "FUKUYAMA TRANSPORTING"
+	sort_name: "fukutu"
+	trailer_look: globeur
+}

@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : mdm_1.mdmodding.markers
+{
+	name: "Orange"
+	price: 500
+	unlock: 2
+	icon: "curtainsider/curtainsider"
+	exterior_model: "/vehicle/trailer/owned/aero/markers/light_01_o_position.pmd"
+	
+	suitable_for[]: "mdm_1.mdmodding.body"
+	suitable_for[]: "mdm_2.mdmodding.body"
+	suitable_for[]: "mdm_3.mdmodding.body"
+}
+}

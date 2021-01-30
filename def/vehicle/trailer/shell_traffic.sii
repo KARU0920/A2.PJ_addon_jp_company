@@ -1,0 +1,31 @@
+traffic_trailer : traffic.trailer.shell
+{
+	accessories[]: .traffic.shell.tchassis
+	accessories[]: .traffic.shell.trwheel0
+	accessories[]: .traffic.shell.trwheel1
+	accessories[]: .traffic.shell.trwheel2
+	cargo_mass: 22000				#traffic only
+}
+
+vehicle_accessory: .traffic.shell.tchassis
+{
+		data_path: "/def/vehicle/trailer/shell/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.shell.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.shell.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.shell.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

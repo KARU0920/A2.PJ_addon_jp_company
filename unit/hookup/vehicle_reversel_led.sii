@@ -1,0 +1,20 @@
+SiiNunit
+{
+flare_vehicle: flare.vehicle.reversel_led
+{
+	dir_type: narrow
+	flare_inner_angle: 45
+	light_type: reverse
+	
+	diffuse_color: (0.4, 0.4, 0.4)
+	range: 2.5
+	inner_angle: 60.0
+	outer_angle: 80.0
+	type: spot
+	forward_distance: false
+	model: "/model/flare/uniform_cold_white.pmd"
+	default_scale: 0.33
+	scale_factor: 5
+	visual_offset: 0.1
+}
+}

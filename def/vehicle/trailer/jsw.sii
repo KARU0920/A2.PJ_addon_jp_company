@@ -1,0 +1,30 @@
+trailer : trailer.jsw
+{
+	accessories[]: .jsw.tchassis
+	accessories[]: .jsw.trwheel0
+	accessories[]: .jsw.trwheel1
+	accessories[]: .jsw.trwheel2
+}
+
+vehicle_accessory: .jsw.tchassis
+{
+		data_path: "/def/vehicle/trailer/jsw/chassis.sii"
+}
+
+vehicle_wheel_accessory: .jsw.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .jsw.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .jsw.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

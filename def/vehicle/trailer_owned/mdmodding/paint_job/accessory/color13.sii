@@ -1,0 +1,29 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/trailer/owned/aero/paintjob/skins_13.tobj"
+	flake_uvscale: 32768.000000
+	flake_vratio: 0.500000
+	acc_list[]: "body.mdm_1"
+	acc_list[]: "aero.mdm_1"
+	acc_list[]: "aero.mdm_2"
+	acc_list[]: "aero.mdm_3"
+	acc_list[]: "aero.mdm_4"
+	acc_list[]: "aero.mdm_5"
+	acc_list[]: "aero.mdm_6"
+	acc_list[]: "body.mdm_2"
+	acc_list[]: "chassis.mdm_1"
+	acc_list[]: "chassis.mdm_2"
+	acc_list[]: "r_bumper.mdm_2"
+	acc_list[]: "r_bumper.mdm_4"
+	acc_list[]: "r_bumper.mdm_6"
+	acc_list[]: "r_bumper.mdm_8"
+	acc_list[]: "r_mudflap.mdm_1"
+	acc_list[]: "aero.mdm_7"
+	acc_list[]: "aero.mdm_8"
+	acc_list[]: "aero.mdm_9"
+	acc_list[]: "body.mdm_3"
+	acc_list[]: "chassis.mdm_3"
+}
+}

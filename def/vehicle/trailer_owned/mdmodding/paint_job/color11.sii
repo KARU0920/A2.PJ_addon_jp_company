@@ -1,0 +1,7 @@
+SiiNunit
+{
+accessory_paint_job_data : color11.mdmodding.paint_job
+{
+@include "color11_settings.sui"
+}
+}

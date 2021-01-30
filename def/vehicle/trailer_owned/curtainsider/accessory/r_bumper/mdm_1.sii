@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : mdm_1.curtainsider.r_bumper
+{
+	name: "@@exclusive@@"
+	price: 1200
+	unlock: 12
+	icon: "curtainsider/curtainsider"
+	exterior_model: "/vehicle/trailer/upgrade/curtain_sider/r_bumper/bumper_base.pmd"
+
+	suitable_for[]: "mdm_1.curtainsider.chassis"
+}
+}

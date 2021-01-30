@@ -1,0 +1,30 @@
+trailer : trailer.ultratech
+{
+	accessories[]: .ultratech.tchassis
+	accessories[]: .ultratech.trwheel0
+	accessories[]: .ultratech.trwheel1
+	accessories[]: .ultratech.trwheel2
+}
+
+vehicle_accessory: .ultratech.tchassis
+{
+		data_path: "/def/vehicle/trailer/ultratech/chassis.sii"
+}
+
+vehicle_wheel_accessory: .ultratech.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .ultratech.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .ultratech.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

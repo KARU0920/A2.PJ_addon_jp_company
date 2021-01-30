@@ -1,0 +1,6 @@
+company_permanent: company.permanent.eco
+{
+	name: "Total"
+	sort_name: "total"
+	trailer_look: eco
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : mdm_1.curtainsider.markers
+{
+	name: "@@standard@@"
+	price: 440
+	unlock: 0
+	icon: "curtainsider/curtainsider"
+	exterior_model: "/vehicle/trailer/upgrade/curtain_sider/markers/light.pmd"
+
+	suitable_for[]: "mdm_1.curtainsider.body"
+}
+}

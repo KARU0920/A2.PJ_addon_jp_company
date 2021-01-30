@@ -1,0 +1,34 @@
+trailer : trailer.aero1 
+{
+	trailer_definition: trailer_def.curtain.02.2axles
+
+	accessories[]: .aero1.tchassis
+	accessories[]: .aero1.paint_job
+	accessories[]: .aero1.trwheel0
+	accessories[]: .aero1.trwheel1
+}
+
+vehicle_accessory: .aero1.tchassis
+{
+    	data_path: "/def/vehicle/trailer/aero1/chassis.sii"
+}
+
+vehicle_wheel_accessory: .aero1.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .aero1.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_paint_job_accessory: .aero1.paint_job
+{
+    	data_path: "/def/vehicle/trailer/aero1/company_paint_job/default.sii"
+}
+
+
+

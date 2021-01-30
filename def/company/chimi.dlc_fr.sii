@@ -1,0 +1,6 @@
+company_permanent: company.permanent.chimi
+{
+	name: "Air Liquide"
+	sort_name: "air liquide"
+	trailer_look: chimi
+}

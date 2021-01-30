@@ -1,0 +1,25 @@
+SiiNunit
+{
+accessory_trailer_body_data : mdm_3.mdmodding.body
+{
+	name: "curtain"
+	price: 20000
+	unlock: 15
+	icon: "curtainsider/curtainsider"
+
+	size: (2.465, 2.65, 13.31)	# width, height, length (internal size of the body)
+	total_size: (2.6, 4.0, 13.55)	# width, height, length (size of the body + chassis)
+
+	volume: 87
+	body_type: curtainside
+
+	mass: 4200
+
+	model: "/vehicle/trailer/owned/aero/body/curtain_3axles_v2.pmd"
+	collision: "/vehicle/trailer/owned/aero/body/curtain_3axles_v2.pmc"
+	
+	variant: default
+	look: default
+
+}
+}

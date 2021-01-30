@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_configuration : .curtainsider
+{
+	name: "Base"
+	chain_type: single
+	icon: "curtainsider/curtainsider"
+	chassis[]: "/def/vehicle/trailer_owned/curtainsider/chassis/mdm_1.sii"
+}
+}

@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_def : .pemex
+{
+	trailer: trailer.pemex
+	mass: 28000.0
+	cog_offset: 1
+	cog_offset[]: (0.0, 1.0, 0.0)
+}
+}

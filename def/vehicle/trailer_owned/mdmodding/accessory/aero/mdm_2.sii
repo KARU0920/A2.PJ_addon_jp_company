@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : mdm_2.mdmodding.aero
+{
+	name: "2 axles"
+	price: 5000
+	unlock: 8
+	icon: "curtainsider/curtainsider"
+	exterior_model: "/vehicle/trailer/owned/aero/sideskirt/aero_2axles.pmd"
+
+	suitable_for[]: "mdm_2.mdmodding.body"
+	suitable_for[]: "mdm_2.mdmodding.chassis"
+}
+}

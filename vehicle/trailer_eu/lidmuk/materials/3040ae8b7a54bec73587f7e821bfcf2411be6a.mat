@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.mult.dif.spec" {
+	texture[0] : "/vehicle/trailer_eu/lidmuk/textures/cistern_plain.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer_eu/lidmuk/textures/bcp.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1.0 , 1.0 , 1.0 }
+	reflection : 0
+	shininess : 45
+	specular : { 0.0331048 , 0.0331048 , 0.0331048 }
+}

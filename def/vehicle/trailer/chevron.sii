@@ -1,0 +1,30 @@
+trailer : trailer.chevron
+{
+	accessories[]: .chevron.tchassis
+	accessories[]: .chevron.trwheel0
+	accessories[]: .chevron.trwheel1
+	accessories[]: .chevron.trwheel2
+}
+
+vehicle_accessory: .chevron.tchassis
+{
+		data_path: "/def/vehicle/trailer/chevron/chassis.sii"
+}
+
+vehicle_wheel_accessory: .chevron.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .chevron.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .chevron.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

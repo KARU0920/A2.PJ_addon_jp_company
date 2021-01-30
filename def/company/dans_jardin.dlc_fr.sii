@@ -1,0 +1,6 @@
+company_permanent: company.permanent.dans_jardin
+{
+	name: "Bonduelle"
+	sort_name: "bonduelle"
+	trailer_look: dans_jardin
+}

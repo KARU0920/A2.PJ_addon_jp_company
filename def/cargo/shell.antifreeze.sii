@@ -1,0 +1,7 @@
+cargo_data: cargo.shell.antifreeze
+{
+	name: "gasoline.Light oil"
+	fragility: 0.8
+	price_coef: 2.0
+	group[]: liquid
+}

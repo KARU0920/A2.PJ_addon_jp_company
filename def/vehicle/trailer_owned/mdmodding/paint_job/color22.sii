@@ -1,0 +1,7 @@
+SiiNunit
+{
+accessory_paint_job_data : color22.curtainsider.paint_job
+{
+@include "color22_settings.sui"
+}
+}

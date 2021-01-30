@@ -1,0 +1,31 @@
+traffic_trailer : traffic.trailer.5hleb
+{
+	accessories[]: .traffic.5hleb.tchassis
+	accessories[]: .traffic.5hleb.trwheel0
+	accessories[]: .traffic.5hleb.trwheel1
+	accessories[]: .traffic.5hleb.trwheel2
+	cargo_mass: 22000				#traffic only
+}
+
+vehicle_accessory: .traffic.5hleb.tchassis
+{
+		data_path: "/def/vehicle/trailer/5hleb/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.5hleb.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.5hleb.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.5hleb.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

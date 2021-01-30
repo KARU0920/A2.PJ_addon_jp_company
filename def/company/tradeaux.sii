@@ -1,0 +1,6 @@
+company_permanent: company.permanent.tradeaux
+{
+	name: "Nippon Yusen"
+	sort_name: "nyk"
+	trailer_look: tradeaux
+}

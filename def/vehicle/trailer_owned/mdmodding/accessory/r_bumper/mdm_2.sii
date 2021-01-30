@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : mdm_2.mdmodding.r_bumper
+{
+	name: "Simple Paint 01"
+	price: 800
+	unlock: 2
+	icon: "curtainsider/curtainsider"
+	exterior_model: "/vehicle/trailer/owned/aero/r_bumper/bumper_simple_p_01.pmd"
+	
+	suitable_for[]: "mdm_1.mdmodding.chassis"
+	suitable_for[]: "mdm_2.mdmodding.chassis"
+	suitable_for[]: "mdm_3.mdmodding.chassis"
+}
+}

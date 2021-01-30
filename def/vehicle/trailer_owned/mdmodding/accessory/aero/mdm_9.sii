@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : mdm_9.mdmodding.aero
+{
+	name: "3 axles Light Bar @@paint@@"
+	price: 5000
+	unlock: 8
+	icon: "curtainsider/curtainsider"
+	exterior_model: "/vehicle/trailer/owned/aero/sideskirt/aero_3axles_v2_lightbar_p.pmd"
+
+	suitable_for[]: "mdm_3.mdmodding.body"
+	suitable_for[]: "mdm_3.mdmodding.chassis"	
+}
+}

@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .ryneom {
+ cargo: "cargo.ryneom"
+}
+}

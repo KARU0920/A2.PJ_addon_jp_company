@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmapuv.asafew.a.rfx" {
+	texture[0] : "/vehicle/trailer/curtain_sider/decals.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer/curtain_sider/decals_normal.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 80
+	specular : { 0.741118 , 0.741118 , 0.741118 }
+}

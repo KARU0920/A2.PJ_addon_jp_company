@@ -1,0 +1,30 @@
+trailer : trailer.bp
+{
+	accessories[]: .bp.tchassis
+	accessories[]: .bp.trwheel0
+	accessories[]: .bp.trwheel1
+	accessories[]: .bp.trwheel2
+}
+
+vehicle_accessory: .bp.tchassis
+{
+		data_path: "/def/vehicle/trailer/bp/chassis.sii"
+}
+
+vehicle_wheel_accessory: .bp.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .bp.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .bp.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

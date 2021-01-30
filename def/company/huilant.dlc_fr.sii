@@ -1,0 +1,6 @@
+company_permanent: company.permanent.huilant
+{
+	name: "ExxonMobil"
+	sort_name: "exxonmobil"
+	trailer_look: huilant
+}

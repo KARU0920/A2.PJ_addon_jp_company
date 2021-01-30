@@ -1,0 +1,6 @@
+	name: "引越センター"
+	price: 500
+	unlock: 0
+	airbrush: true
+	base_color: (0.0000, 0.0000, 0.00000)
+	icon: "curtainsider/curtainsider"

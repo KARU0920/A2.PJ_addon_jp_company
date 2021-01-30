@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : marathon.gasoline {
+ cargo: "cargo.marathon.gasoline"
+}
+}

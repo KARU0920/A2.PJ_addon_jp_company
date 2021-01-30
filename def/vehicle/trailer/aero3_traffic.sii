@@ -1,0 +1,41 @@
+traffic_trailer : traffic.trailer.aero3
+{
+	accessories[]: .traffic.aero3.tchassis.default
+	accessories[]: .traffic.aero3.trwheel0.default
+	accessories[]: .traffic.aero3.trwheel1.default
+	accessories[]: .traffic.aero3.trwheel2.default
+	accessories[]: .traffic.aero3.paintjob.default
+
+	spawn_ratio: 5.0
+	
+	cargo_mass: 25000
+
+	company_paint_job: true
+}
+vehicle_accessory: .traffic.aero3.tchassis.default
+{
+	data_path: "/def/vehicle/trailer/aero3/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.aero3.trwheel0.default
+{
+	offset: 0
+	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.aero3.trwheel1.default
+{
+	offset: 2
+	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.aero3.trwheel2.default
+{
+	offset: 4
+	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_paint_job_accessory: .traffic.aero3.paintjob.default
+{
+	data_path: "/def/vehicle/trailer/aero3/company_paint_job/default.sii"
+}

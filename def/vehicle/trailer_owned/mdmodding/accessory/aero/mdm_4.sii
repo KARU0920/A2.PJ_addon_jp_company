@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : mdm_4.mdmodding.aero
+{
+	name: "2 axles Light Bar @@chrom@@"
+	price: 5000
+	unlock: 8
+	icon: "curtainsider/curtainsider"
+	exterior_model: "/vehicle/trailer/owned/aero/sideskirt/aero_2axles_lightbar_chr.pmd"
+
+	suitable_for[]: "mdm_2.mdmodding.body"
+	suitable_for[]: "mdm_2.mdmodding.chassis"
+}
+}

@@ -1,0 +1,30 @@
+trailer : trailer.texaco
+{
+	accessories[]: .texaco.tchassis
+	accessories[]: .texaco.trwheel0
+	accessories[]: .texaco.trwheel1
+	accessories[]: .texaco.trwheel2
+}
+
+vehicle_accessory: .texaco.tchassis
+{
+		data_path: "/def/vehicle/trailer/texaco/chassis.sii"
+}
+
+vehicle_wheel_accessory: .texaco.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .texaco.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .texaco.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

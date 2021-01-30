@@ -1,0 +1,6 @@
+company_permanent: company.permanent.posped
+{
+	name: "Kintetsu World Express"
+	sort_name: "kwe"
+	trailer_look: posped
+}

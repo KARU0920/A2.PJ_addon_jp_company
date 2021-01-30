@@ -1,0 +1,8 @@
+SiiNunit
+{
+@include "cargo/cemenom.sii"
+@include "cargo/flurom.sii"
+@include "cargo/ryneom.sii"
+@include "cargo/sandom.sii"
+@include "cargo/whetom.sii"
+}

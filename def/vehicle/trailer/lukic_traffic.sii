@@ -1,0 +1,31 @@
+traffic_trailer : traffic.trailer.lukic
+{
+	accessories[]: .traffic.lukic.tchassis
+	accessories[]: .traffic.lukic.trwheel0
+	accessories[]: .traffic.lukic.trwheel1
+	accessories[]: .traffic.lukic.trwheel2
+	cargo_mass: 22000				#traffic only
+}
+
+vehicle_accessory: .traffic.lukic.tchassis
+{
+		data_path: "/def/vehicle/trailer/lukic/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.lukic.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.lukic.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.lukic.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

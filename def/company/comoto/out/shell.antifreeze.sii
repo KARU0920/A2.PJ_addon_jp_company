@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : shell.antifreeze {
+ cargo: "cargo.shell.antifreeze"
+}
+}

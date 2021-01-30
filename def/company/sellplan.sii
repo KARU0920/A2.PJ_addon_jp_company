@@ -1,0 +1,6 @@
+company_permanent: company.permanent.sellplan
+{
+	name: "Marunage Seimen"
+	sort_name: "marunage"
+	trailer_look: sellplan
+}

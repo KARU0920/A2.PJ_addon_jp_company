@@ -1,0 +1,8 @@
+cargo_data: cargo.pemex.dieselfuel
+{
+	name: "gasoline.Light oil"
+	fragility: 1.0
+	price_coef: 4.0
+	adr_class: 3
+	group[]: adr
+}

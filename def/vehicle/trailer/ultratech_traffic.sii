@@ -1,0 +1,31 @@
+traffic_trailer : traffic.trailer.ultratech
+{
+	accessories[]: .traffic.ultratech.tchassis
+	accessories[]: .traffic.ultratech.trwheel0
+	accessories[]: .traffic.ultratech.trwheel1
+	accessories[]: .traffic.ultratech.trwheel2
+	cargo_mass: 22000				#traffic only
+}
+
+vehicle_accessory: .traffic.ultratech.tchassis
+{
+		data_path: "/def/vehicle/trailer/ultratech/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.ultratech.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.ultratech.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.ultratech.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

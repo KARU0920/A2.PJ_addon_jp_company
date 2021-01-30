@@ -1,0 +1,30 @@
+trailer : trailer.makfa
+{
+	accessories[]: .makfa.tchassis
+	accessories[]: .makfa.trwheel0
+	accessories[]: .makfa.trwheel1
+	accessories[]: .makfa.trwheel2
+}
+
+vehicle_accessory: .makfa.tchassis
+{
+		data_path: "/def/vehicle/trailer/makfa/chassis.sii"
+}
+
+vehicle_wheel_accessory: .makfa.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .makfa.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .makfa.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

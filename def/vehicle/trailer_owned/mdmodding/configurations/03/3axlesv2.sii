@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_body_set : .3axlesv2
+{
+	name: "Curtain 3 axles steering axle"
+	icon: "curtainsider/curtainsider"
+	trailer_definition: trailer_def.curtain.03.3axlesv2
+	body[]: "/def/vehicle/trailer_owned/mdmodding/body/mdm_3.sii"
+}
+}

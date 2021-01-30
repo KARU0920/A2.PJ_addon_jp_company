@@ -1,0 +1,31 @@
+traffic_trailer : traffic.trailer.total
+{
+	accessories[]: .traffic.total.tchassis
+	accessories[]: .traffic.total.trwheel0
+	accessories[]: .traffic.total.trwheel1
+	accessories[]: .traffic.total.trwheel2
+	cargo_mass: 22000				#traffic only
+}
+
+vehicle_accessory: .traffic.total.tchassis
+{
+		data_path: "/def/vehicle/trailer/total/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.total.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.total.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.total.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

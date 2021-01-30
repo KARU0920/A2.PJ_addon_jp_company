@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_configuration : .01
+{
+	name: "3 axles"
+	chain_type: single
+	icon: "curtainsider/curtainsider"
+	chassis[]: "/def/vehicle/trailer_owned/mdmodding/chassis/mdm_1.sii"
+}
+}

@@ -1,0 +1,30 @@
+trailer : trailer.simba
+{
+	accessories[]: .simba.tchassis
+	accessories[]: .simba.trwheel0
+	accessories[]: .simba.trwheel1
+	accessories[]: .simba.trwheel2
+}
+
+vehicle_accessory: .simba.tchassis
+{
+		data_path: "/def/vehicle/trailer/simba/chassis.sii"
+}
+
+vehicle_wheel_accessory: .simba.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .simba.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .simba.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

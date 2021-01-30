@@ -1,0 +1,30 @@
+trailer : trailer.aramco
+{
+	accessories[]: .aramco.tchassis
+	accessories[]: .aramco.trwheel0
+	accessories[]: .aramco.trwheel1
+	accessories[]: .aramco.trwheel2
+}
+
+vehicle_accessory: .aramco.tchassis
+{
+		data_path: "/def/vehicle/trailer/aramco/chassis.sii"
+}
+
+vehicle_wheel_accessory: .aramco.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .aramco.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .aramco.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

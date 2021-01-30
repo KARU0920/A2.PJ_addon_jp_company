@@ -1,0 +1,6 @@
+company_permanent: company.permanent.nucleon
+{
+	name: "EDF"
+	sort_name: "edf"
+	trailer_look: nucleon
+}

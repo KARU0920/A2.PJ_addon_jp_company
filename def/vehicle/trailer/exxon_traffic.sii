@@ -1,0 +1,31 @@
+traffic_trailer : traffic.trailer.exxon
+{
+	accessories[]: .traffic.exxon.tchassis
+	accessories[]: .traffic.exxon.trwheel0
+	accessories[]: .traffic.exxon.trwheel1
+	accessories[]: .traffic.exxon.trwheel2
+	cargo_mass: 22000				#traffic only
+}
+
+vehicle_accessory: .traffic.exxon.tchassis
+{
+		data_path: "/def/vehicle/trailer/exxon/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.exxon.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.exxon.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.exxon.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

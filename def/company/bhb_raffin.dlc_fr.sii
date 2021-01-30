@@ -1,0 +1,6 @@
+company_permanent: company.permanent.bhb_raffin
+{
+	name: "Total"
+	sort_name: "total"
+	trailer_look: bhb_raffin
+}

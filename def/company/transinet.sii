@@ -1,0 +1,6 @@
+company_permanent: company.permanent.transinet
+{
+	name: "Hitachi Transport System"
+	sort_name: "hts"
+	trailer_look: transinet
+}

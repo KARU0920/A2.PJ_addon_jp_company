@@ -1,0 +1,6 @@
+company_permanent: company.permanent.nos_pat_cf
+{
+	name: "Danone"
+	sort_name: "danone"
+	trailer_look: nos_pat
+}

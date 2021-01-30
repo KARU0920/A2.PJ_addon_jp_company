@@ -1,0 +1,140 @@
+SiiNunit
+{
+trailer : .curtain.01.3axles
+{
+	trailer_definition: trailer_def.curtain.01.3axles
+
+	accessories[]: .data
+	accessories[]: .chassis
+	accessories[]: .body
+	accessories[]: .paint_job
+
+	accessories[]: .r_bumper
+	accessories[]: .markers
+	accessories[]: .aero
+
+	accessories[]: .tire
+	accessories[]: .disc
+	accessories[]: .hub
+	accessories[]: .nuts
+
+	accessories[]: .tire2
+	accessories[]: .disc2
+	accessories[]: .hub2
+	accessories[]: .nuts2
+
+	accessories[]: .tire3
+	accessories[]: .disc3
+	accessories[]: .hub3
+	accessories[]: .nuts3
+}
+
+vehicle_accessory: .data
+{
+	data_path: "/def/vehicle/trailer_owned/mdmodding/data.sii"
+}
+
+vehicle_accessory: .chassis
+{
+	data_path: "/def/vehicle/trailer_owned/mdmodding/chassis/mdm_1.sii"
+}
+
+vehicle_accessory: .body
+{
+	data_path: "/def/vehicle/trailer_owned/mdmodding/body/mdm_1.sii"
+}
+
+
+vehicle_paint_job_accessory: .paint_job
+{
+	data_path: "/def/vehicle/trailer_owned/mdmodding/paint_job/color.sii"
+}
+
+vehicle_addon_accessory: .r_bumper
+{
+	data_path: "/def/vehicle/trailer_owned/mdmodding/accessory/r_bumper/mdm_1.sii"
+}
+
+vehicle_addon_accessory: .markers
+{
+	data_path: "/def/vehicle/trailer_owned/mdmodding/accessory/markers/mdm_1.sii"
+}
+
+vehicle_addon_accessory: .aero
+{
+	data_path: "/def/vehicle/trailer_owned/mdmodding/accessory/aero/mdm_1.sii"
+}
+
+vehicle_wheel_accessory: .tire
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory: .disc
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_disc/disc_0_01.sii"
+}
+
+vehicle_wheel_accessory: .hub
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_hub/hub_0_01.sii"
+}
+
+vehicle_wheel_accessory: .nuts
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_nuts/nuts_steel_0_01.sii"
+}
+
+vehicle_wheel_accessory: .tire2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory: .disc2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_disc/disc_0_01.sii"
+}
+
+vehicle_wheel_accessory: .hub2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_hub/hub_0_01.sii"
+}
+
+vehicle_wheel_accessory: .nuts2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_nuts/nuts_steel_0_01.sii"
+}
+
+vehicle_wheel_accessory: .tire3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory: .disc3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_disc/disc_0_01.sii"
+}
+
+vehicle_wheel_accessory: .hub3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_hub/hub_0_01.sii"
+}
+
+vehicle_wheel_accessory: .nuts3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_nuts/nuts_steel_0_01.sii"
+}
+
+}

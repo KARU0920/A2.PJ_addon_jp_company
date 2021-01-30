@@ -1,0 +1,6 @@
+company_permanent: company.permanent.eurogoodies
+{
+	name: "SAGAWA EXPRESS"
+	sort_name: "sagawa"
+	trailer_look: eurogoodies
+}

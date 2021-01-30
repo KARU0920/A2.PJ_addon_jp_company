@@ -1,0 +1,4 @@
+SiiNunit
+{
+@include "addon_hookups/aero1_smalight.sii"
+}

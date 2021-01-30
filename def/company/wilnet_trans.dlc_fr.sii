@@ -1,0 +1,6 @@
+company_permanent: company.permanent.wilnet_trans
+{
+	name: "Geodis"
+	sort_name: "geodis"
+	trailer_look: wilnet_trans
+}

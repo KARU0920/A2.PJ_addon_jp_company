@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.mult.dif.spec" {
+	texture[0] : "/vehicle/trailer_eu/chevron/textures/plain.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer_eu/chevron/textures/wgcc.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1.0 , 1.0 , 1.0 }
+	reflection : 0
+	shininess : 30
+	specular : { 0.890898 , 0.890898 , 0.890898 }
+}

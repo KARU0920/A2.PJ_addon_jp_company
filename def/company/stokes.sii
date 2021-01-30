@@ -1,0 +1,6 @@
+company_permanent: company.permanent.stokes
+{
+	name: "NIPPON EXPRESS"
+	sort_name: "nittu"
+	trailer_look: stokes
+}

@@ -1,0 +1,31 @@
+traffic_trailer : traffic.trailer.koromond
+{
+	accessories[]: .traffic.koromond.tchassis
+	accessories[]: .traffic.koromond.trwheel0
+	accessories[]: .traffic.koromond.trwheel1
+	accessories[]: .traffic.koromond.trwheel2
+	cargo_mass: 22000				#traffic only
+}
+
+vehicle_accessory: .traffic.koromond.tchassis
+{
+		data_path: "/def/vehicle/trailer/koromond/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.koromond.trwheel0
+{
+	offset: 0
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.koromond.trwheel1
+{
+	offset: 2
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.koromond.trwheel2
+{
+	offset: 4
+		data_path: "/def/vehicle/t_wheel/single.sii"
+}

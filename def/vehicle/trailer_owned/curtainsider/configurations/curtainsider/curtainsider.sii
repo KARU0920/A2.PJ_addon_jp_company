@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_body_set : .curtainsider
+{
+	name: "@@bs_scs_reefer@@"
+	icon: "curtainsider/curtainsider"
+	trailer_definition: trailer_def.curtainsider
+	body[]: "/def/vehicle/trailer_owned/curtainsider/body/mdm_1.sii"
+}
+}

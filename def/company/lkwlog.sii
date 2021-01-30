@@ -1,0 +1,6 @@
+company_permanent: company.permanent.lkwlog
+{
+	name: "YAMATO TRANSPORT"
+	sort_name: "yamato"
+	trailer_look: lkwlog
+}

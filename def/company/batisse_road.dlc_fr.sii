@@ -1,0 +1,6 @@
+company_permanent: company.permanent.batisse_road
+{
+	name: "Saint-Gobain"
+	sort_name: "saint-gobain"
+	trailer_look: batisse
+}
