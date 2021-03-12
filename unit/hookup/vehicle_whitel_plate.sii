@@ -5,7 +5,15 @@ flare_vehicle: flare.vehicle.whitel_plate
 	dir_type: wide
 	light_type: parking
 
-	diffuse_color: (1, 1, 1)
+#1.39用
+#	diffuse_color: (1, 1, 1)
+
+#1.40用
+	setup: candela_hue_saturation
+	diffuse_color: (4, 0, 0)
+	specular_color: (4, 0, 0)
+#ここまで
+
 	range: 0.4
 	inner_angle: 40.0
 	outer_angle: 40.0

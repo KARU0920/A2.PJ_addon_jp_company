@@ -6,7 +6,15 @@ flare_vehicle: flare.vehicle.reversel_led
 	flare_inner_angle: 45
 	light_type: reverse
 	
-	diffuse_color: (0.4, 0.4, 0.4)
+#1.39用
+#	diffuse_color: (0.4, 0.4, 0.4)
+
+#1.40用
+	setup: candela_hue_saturation
+	diffuse_color: (300, 0, 0)
+	specular_color: (300, 0, 0)
+#ここまで
+
 	range: 2.5
 	inner_angle: 60.0
 	outer_angle: 80.0

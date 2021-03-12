@@ -1,4 +1,6 @@
-SiiNunit
+#バニラのユニット名と重複のため無効化
+
+#SiiNunit
 {
 flare_vehicle: flare.vehicle.redl
 {
