@@ -2,7 +2,7 @@
 [red] Japan
 [white] JP COMPANY
 
-------- UPDATES IN 0.2 ----------
+------- UPDATES IN 0.3 ----------
 【Japanese】
 - ご利用いただきありがとうございます。
 - このmodについて…
